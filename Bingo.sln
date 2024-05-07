@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bingo", "Bingo\Bingo.vcproj", "{45DF02DC-0529-4CC3-B538-5A295E14946D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{13E990DA-8FCB-4365-AB74-66E3830C3C46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45DF02DC-0529-4CC3-B538-5A295E14946D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{45DF02DC-0529-4CC3-B538-5A295E14946D}.Debug|Win32.Build.0 = Debug|Win32
+		{45DF02DC-0529-4CC3-B538-5A295E14946D}.Release|Win32.ActiveCfg = Release|Win32
+		{45DF02DC-0529-4CC3-B538-5A295E14946D}.Release|Win32.Build.0 = Release|Win32
+		{13E990DA-8FCB-4365-AB74-66E3830C3C46}.Debug|Win32.ActiveCfg = Debug
+		{13E990DA-8FCB-4365-AB74-66E3830C3C46}.Release|Win32.ActiveCfg = Release
+		{13E990DA-8FCB-4365-AB74-66E3830C3C46}.Release|Win32.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
